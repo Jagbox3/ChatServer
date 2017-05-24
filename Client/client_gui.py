@@ -51,7 +51,7 @@ class Window:
         self.text1.grid(row=0, column=0, sticky="nsew")
         self.scrollbar.grid(row=0, column=1, sticky="nsw")
 
-        self.server_address = ('172.16.140.174', 7777)
+        self.server_address = ('172.16.143.163', 7777)
         self.client = client.Client(self.print_queue, self.message_queue)
 
         root.after(10, self.log_print)
