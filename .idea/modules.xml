@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Algorithms/.idea/Algorithms.iml" filepath="$PROJECT_DIR$/../Algorithms/.idea/Algorithms.iml" />
+      <module fileurl="file://C:\Users\Jeff\Documents\Repositories\Algorithms\.idea\Algorithms.iml" filepath="C:\Users\Jeff\Documents\Repositories\Algorithms\.idea\Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ChatServer.iml" filepath="$PROJECT_DIR$/.idea/ChatServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ProjectEuler/.idea/ProjectEuler.iml" filepath="$PROJECT_DIR$/../ProjectEuler/.idea/ProjectEuler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Snake/.idea/Snake.iml" filepath="$PROJECT_DIR$/../Snake/.idea/Snake.iml" />
+      <module fileurl="file://C:\Users\Jeff\Documents\Repositories\ProjectEuler\.idea\ProjectEuler.iml" filepath="C:\Users\Jeff\Documents\Repositories\ProjectEuler\.idea\ProjectEuler.iml" />
+      <module fileurl="file://C:\Users\Jeff\Documents\Repositories\Snake\.idea\Snake.iml" filepath="C:\Users\Jeff\Documents\Repositories\Snake\.idea\Snake.iml" />
     </modules>
   </component>
 </project>

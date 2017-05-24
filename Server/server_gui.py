@@ -44,7 +44,7 @@ class Window:
         self.text1.grid(row=0, column=0, sticky="nsew")
         self.scrollbar.grid(row=0, column=1, sticky="nsw")
 
-        self.server_address = ('192.168.1.31', 7777)
+        self.server_address = ('172.16.0.56', 7777)
         root.after(10, self.log_print)
         root.protocol('WM_DELETE_WINDOW', self.on_destroy)
 
