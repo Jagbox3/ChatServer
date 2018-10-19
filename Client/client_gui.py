@@ -1,7 +1,6 @@
 import tkinter as tk
 from queue import Queue
-import client
-
+import Client.client as client
 
 version = 1.0
 
