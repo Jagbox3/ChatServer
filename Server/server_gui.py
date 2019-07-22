@@ -1,6 +1,6 @@
 import tkinter as tk
 from queue import Queue
-from Server.server import Server
+from server import Server
 
 version = 1.0
 
@@ -44,7 +44,7 @@ class Window:
         self.text1.grid(row=0, column=0, sticky="nsew")
         self.scrollbar.grid(row=0, column=1, sticky="nsw")
 
-        self.server_address = ('172.16.0.56', 7777)
+        self.server_address = ('129.161.52.209', 7777)
         root.after(10, self.log_print)
         root.protocol('WM_DELETE_WINDOW', self.on_destroy)
 

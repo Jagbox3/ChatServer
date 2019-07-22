@@ -4,7 +4,7 @@
 
 from ast import literal_eval
 from queue import Queue
-from Client.restartablethread import RestartableThread
+from restartablethread import RestartableThread
 import socket
 
 class Server:
